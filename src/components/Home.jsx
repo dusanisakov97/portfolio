@@ -32,7 +32,7 @@ const Home = () => {
           </div>
           <div>
             <Link to="skills" smooth={true} duration={500}>
-              <button className="w-[9.9rem] text-[white] bg-[#1b3fab] group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-900 hover:border-blue-900">
+              <button className="text-[white] bg-[#1b3fab] group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-900 hover:border-blue-900">
                 View Skills
                 <span>
                   <HiArrowNarrowRight className="ml-3 " />
