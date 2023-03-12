@@ -11,7 +11,7 @@ import Java from "../assets/javaimg.jpg";
 
 const Skills = () => {
   return (
-    <div name="skills" className="w-full h-screen bg-[white] text-[#1b3fab]">
+    <div name="skills" className="w-full h-[110vh] bg-[white] text-[#1b3fab]">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="text-center mb-4">
