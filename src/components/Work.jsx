@@ -7,7 +7,7 @@ const Work = () => {
   //setProject(data);
 
   return (
-    <div name="work" className="w-full md:h-[75vh] text-[#1b3fab]] bg-[#fff]">
+    <div name="work" className="w-full md:h-screen text-[#1b3fab]] bg-[#fff]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full">
         <div className="pb-8 text-center mb-4">
           <p className="text-4xl font-bold inline border-b-4 text-[#1b3fab] border-blue-900">
@@ -16,7 +16,7 @@ const Work = () => {
         </div>
 
         {/* container for projects */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+        <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-6">
           {/* Gird Item */}
           {project.map((item, index) => (
             <div

@@ -1,6 +1,7 @@
 import Web1 from "../assets/web1.jpg";
 import Web2 from "../assets/web2.jpg";
 import Web3 from "../assets/web3.jpg";
+import Web4 from "../assets/Web44.png";
 
 export const data = [
   {
@@ -23,5 +24,12 @@ export const data = [
     image: Web3,
     github: "https://github.com/dusanisakov97/todo-react",
     live: "https://todo-react-dusisakov.netlify.app/",
+  },
+  {
+    id: 4,
+    name: "E-Commerce React App",
+    image: Web4,
+    github: "https://github.com/dusanisakov97/ecommerce-react",
+    live: "https://garden-tools.netlify.app/",
   },
 ];
