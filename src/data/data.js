@@ -1,6 +1,6 @@
 import Web1 from "../assets/web1.jpg";
-import Web2 from "../assets/web2.jpg";
-import Web3 from "../assets/web3.jpg";
+import Web2 from "../assets/Web22.png";
+import Web3 from "../assets/Web33.png";
 import Web4 from "../assets/Web44.png";
 
 export const data = [
